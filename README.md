@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaiaT
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning even more about cybersecurity
-- 💞️ I’m looking to collaborate on soldering together cheap motion activated blinking lights to wear to go dancing.
+- 💞️ I’m looking to collaborate on making android apps with the help of AI enhanced coding through Visual Studio Code - Insider and Github CoPilot.
 - 📫 How to reach me kaia.tqylor@gmail.com
 
 <!---
